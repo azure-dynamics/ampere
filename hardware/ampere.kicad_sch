@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "05856f3f-f22e-4c21-9f1d-48efe7560057")
+	(paper "USLetter")
+	(title_block
+		(title "AMPERE")
+		(date "2026-11-20")
+		(rev "001")
+		(company "AZURE DYNAMICS")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
